@@ -39,4 +39,6 @@
 
 <br />
 
-![GitHub Activity](https://ghchart.rshah.org/Collafranca)
+<p align="center">
+  <img src="https://ghchart.rshah.org/Collafranca" alt="GitHub Activity" />
+</p>
